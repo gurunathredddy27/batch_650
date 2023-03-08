@@ -1,0 +1,12 @@
+elif [$favChar == "Thor"]
+then
+marvelRank=2
+elif [$favChar == "Captain"]
+then
+marvelRank=3
+elif [$favChar == "Widow"]
+then
+marvelRank=4
+elif [$favChar == "Hawkeye"]
+then
+marvelRank=5
